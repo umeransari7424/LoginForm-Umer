@@ -3,6 +3,11 @@ import { Link } from 'react-router-dom';
 
 
 function Signin() {
+//   const [email,setEmail] =useState('');
+//   const[password,setPassword] = useState('');
+
+  
+
   return (
    <div  className='bg'>
      <div className='container py-5 register-container'>
